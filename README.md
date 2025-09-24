@@ -1,3 +1,4 @@
+![alt text](https://i.top4top.io/p_3554ofo7x1.png?raw=true)
 Kegunaan:
 
 Kode ini dibuat untuk menghasilkan daftar alamat IP secara masal (massive IP range generation) berdasarkan input daftar IP dasar (3 oktet pertama). Biasanya ini digunakan untuk keperluan seperti:
